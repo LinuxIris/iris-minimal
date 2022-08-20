@@ -1,6 +1,6 @@
 # ALCI PURE ARCH
 
-This iso attempts to be the purest of Arch Linxu installations.
+This iso attempts to be the purest of Arch Linux installations.
 
 # Arch Linux Calamares Installer or ALCI
 
